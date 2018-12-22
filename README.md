@@ -77,7 +77,9 @@ View specs [here](https://github.com/pseudoralph/messenger_hunt/tree/master/spec
 ## Support and Contact Details
 
 If you have any issues or questions, please email us at:
+  - Jared: jaredreando@gmail.com
   - Paige: paw145@humboldt.edu
+  
 
 
 ## Technologies used
