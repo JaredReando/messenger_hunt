@@ -1,3 +1,5 @@
+(View the site hosted [HERE](http://message-hunter.herokuapp.com/) on Heroku)
+
 # Message Hunter
 
 #### December 19th, 2018
@@ -24,7 +26,6 @@ Travel the world with Message Hunter, leaving a trail of hidden messages for fri
 
 **Happy hunting!**
 
-(View the site hosted [HERE](http://message-hunter.herokuapp.com/) on Heroku)
 
 ## Setup and Installation
 
